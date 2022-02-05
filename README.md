@@ -1,10 +1,8 @@
 # Chess3D
-3D chess game playable in a PvP or PvE mode. 
 
-Developed decent AI player for amateur gameplay. 
+Ajedrez Desarrollado en Unity 
 
-Implemented bug free chess engine. PERFT tested.
+Todo el P vs IA es del siguiente repositorio: https://github.com/pedjamitrovic/Chess3D
+El P v P de este ajedrez se está basado en el siguiente curso: https://www.udemy.com/course/creando-videojuegos-2d-en-unity-ajedrez/
 
-Implemented in C#, Unity Engine.
 
-![alt text](https://github.com/pedjamitrovic/Chess3D/blob/master/Documentation/pictures/mateinthree1.png?raw=true)
